@@ -2,13 +2,13 @@
 
 function setup() {
   createCanvas(600, 600);
-  background("white");
+  background("black");
 }
 
 // funçao de desenhar
 
 function draw() {
-  fill("black");
+  fill("white");
   
   // console.log(mouseIsPressed);
   
