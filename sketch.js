@@ -9,11 +9,11 @@ function setup() {
 
 function draw() {
   fill("white");
-  
+  stroke("white");
+
   // console.log(mouseIsPressed);
   
   if (mouseIsPressed) {
     circle(mouseX, mouseY, 5, 5)
   }
- 
 }
